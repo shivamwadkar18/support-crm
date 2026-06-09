@@ -145,7 +145,7 @@ VITE_API_URL=http://localhost:8000
 ## 👨‍💻 Author
 
 **Shivam Wadkar**  
-Built with ❤️ for Datastraw Technologies
+
 
 ## 📝 License
 

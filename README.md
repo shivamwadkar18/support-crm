@@ -2,7 +2,6 @@
 
 A full-stack customer support ticketing system built with FastAPI, React, and SQLite.
 
-**Built for:** Datastraw Technologies Hiring Assignment
 
 ## 🌐 Live Demo
 

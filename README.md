@@ -5,9 +5,9 @@ A full-stack customer support ticketing system built with FastAPI, React, and SQ
 
 ## 🌐 Live Demo
 
-- **Frontend:** [Add after deployment]
-- **Backend API:** [Add after deployment]
-- **API Docs:** [Add after deployment]/docs
+🌐 App:        https://crm.aiservices.codes
+🔌 API:        https://api.crm.aiservices.codes
+📚 Docs:       https://api.crm.aiservices.codes/docs
 
 ## ✨ Features
 
